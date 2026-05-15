@@ -15,7 +15,7 @@ const Footer = () => {
             <div className="col-lg-3 col-md-6">
               <div className="footer-about">
                 <Link to="/" className="footer-logo-link">
-                  <span style={{ color: '#fff', fontSize: '1.5rem', fontWeight: 700 }}>{siteData.siteName}</span>
+                  <span className="footer-brand-name">{siteData.siteName}</span>
                 </Link>
                 <p style={{ marginTop: '16px' }}>{siteData.footer.description}</p>
               </div>

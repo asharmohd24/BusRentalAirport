@@ -2565,6 +2565,14 @@ footer {
   max-width: 280px;
 }
 
+.footer-brand-name {
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 700;
+  white-space: nowrap;
+  display: block;
+}
+
 .footer-title {
   color: var(--color-white);
   font-size: 1rem;

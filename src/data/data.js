@@ -438,7 +438,7 @@ export const siteData = {
       role: "VP of Operations, Fortune 500 Logistics Firm",
       avatar: "/assets/images/testimonial-1.webp",
       rating: 5,
-      text: "Minibus Rental Atlanta Airport has transformed our executive transfers from Hartsfield Jackson to our Buckhead headquarters. The minibuses are impeccably cooled, the drivers understand our tight schedule perfectly, and the whole process has never caused a single meeting delay. Truly a reliable partner in Atlanta's fast paced environment.",
+      text: "We do airport pickups three or four times a week between Hartsfield Jackson and our Buckhead office. Switched to these guys after our previous provider kept leaving the team standing outside in the summer heat. That problem went away immediately. The drivers know the Connector well enough to call the delay before it hits, and we have not missed a meeting start time since. Does exactly what it promises.",
     },
     {
       id: 2,
@@ -446,7 +446,7 @@ export const siteData = {
       role: "Conference Coordinator, Georgia World Congress Center",
       avatar: "/assets/images/testimonial-2.webp",
       rating: 5,
-      text: "For a high profile international summit with over one hundred delegates landing at ATL, I needed flawless transport. Minibus Rental Atlanta Airport handled every flight monitoring, every Connector delay adjustment, and had every delegate at the GWCC on time and in comfort. That level of execution is rare and invaluable.",
+      text: "Transport is always the thing that can quietly fall apart at large events. We had delegates arriving on six different flights for a summit last October and I was bracing for the usual chaos. Every group got picked up, the drivers stayed in contact the whole time, and we had everyone in the room before the opening session started. One driver even texted me when a flight came in early. That kind of initiative is hard to find.",
     },
     {
       id: 3,
@@ -454,7 +454,7 @@ export const siteData = {
       role: "Luxury Wedding Planner, Buckhead",
       avatar: "/assets/images/testimonial-3.webp",
       rating: 5,
-      text: "I have worked with many transport providers for Atlanta weddings, and Minibus Rental Atlanta Airport is the one I recommend to every couple. Their party minibus arrived early, the driver was dressed impeccably, and the guests loved the onboard celebration. It makes my job so much easier knowing the convoy will be perfect.",
+      text: "I have booked them for four weddings now and keep coming back. Vehicle was clean, driver was on time and dressed properly, and when one ceremony ran thirty minutes over he waited without making it anyone's problem. My couples always ask me afterwards who handled the transport. That says everything about how smoothly it went.",
     },
     {
       id: 4,
@@ -462,7 +462,7 @@ export const siteData = {
       role: "Research Director, Georgia Tech",
       avatar: "/assets/images/testimonial-4.webp",
       rating: 5,
-      text: "We have been booking their minibuses for academic delegations to Emory and the Atlanta 2030 mobility forums for two years now. The teams are comfortable, the drivers handle the busy downtown traffic calmly, and the GPS tracking gives coordinators complete reassurance. The air conditioning alone is a game changer for Southern travel.",
+      text: "We bring research delegations through Atlanta a few times a year and navigating the city with a group who have never been here is always an adventure. The driver we had last spring knew the Georgia Tech campus well enough to drop us at the right entrance, which saved us a fifteen minute walk with equipment cases. Straightforward to book and the van was actually cold inside, which after a long flight is not a small thing.",
     },
   ],
 
